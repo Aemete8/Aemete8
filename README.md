@@ -32,12 +32,14 @@ Soy un desarrollador **Frontend en formación**, apasionado por construir interf
 
 ## 📂 Proyectos destacados
 
-> 🔧 *Próximamente iré subiendo mis proyectos aquí. ¡Mantente al tanto!*
+- 🌐 [**Calculadora de propinas**](https://github.com/Aemete8/Calculadora-de-propinas) — Aplicación web desarrollada con HTML, CSS y JavaScript Vanilla para calcular propinas de forma rápida y precisa. El proyecto implementa manipulación del DOM, validación de entradas, separación de responsabilidades y una interfaz responsive siguiendo buenas prácticas de desarrollo frontend.
+
+- 🔧 *Próximamente iré subiendo más proyectos aquí. ¡Mantente al tanto!*
 
 <!-- Cuando tengas proyectos, puedes reemplazar lo de arriba con algo así:
 - 🌐 [Nombre del proyecto](URL del repo) — Breve descripción
-- 🛒 [Otro proyecto](URL del repo) — Breve descripción
--->
+- 🛒 [Otro proyecto](URL del repo) — Breve descripción -->
+
 
 ---
 
@@ -48,16 +50,16 @@ Soy un desarrollador **Frontend en formación**, apasionado por construir interf
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p> 
----
--->
+--- -->
+
 
 ## 📬 Contáctame
 
 ¡Me encantaría conectar contigo! 😊
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://TU_PORTAFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejomart%C3%ADnez/)
 [![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayanm531@gmail.com)
+<!-- [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://TU_PORTAFOLIO.com) -->
 
 ---
 
