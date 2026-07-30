@@ -34,6 +34,8 @@ Soy un desarrollador **Frontend en formación**, apasionado por construir interf
 
 - 🌐 [**Calculadora de propinas**](https://github.com/Aemete8/Calculadora-de-propinas) — Aplicación web desarrollada con HTML, CSS y JavaScript Vanilla para calcular propinas de forma rápida y precisa. El proyecto implementa manipulación del DOM, validación de entradas, separación de responsabilidades y una interfaz responsive siguiendo buenas prácticas de desarrollo frontend.
 
+- 🌐 [**Lista de tareas TO-DO**](https://github.com/Aemete8/Lista-de-tareas-To-Do-) — Aplicación web de lista de tareas construida con HTML, CSS y JavaScript Vanilla. Permite agregar, eliminar y marcar tareas como completadas, con filtros para visualizar todas, pendientes o completadas. Las tareas se guardan en localStorage, por lo que persisten al recargar la página. Aplica manipulación del DOM, validación de entradas, separación de responsabilidades y diseño responsive.
+
 - 🔧 *Próximamente iré subiendo más proyectos aquí. ¡Mantente al tanto!*
 
 <!-- Cuando tengas proyectos, puedes reemplazar lo de arriba con algo así:
