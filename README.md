@@ -36,6 +36,8 @@ Soy un desarrollador **Frontend en formación**, apasionado por construir interf
 
 - 🌐 [**Lista de tareas TO-DO**](https://github.com/Aemete8/Lista-de-tareas-To-Do-) — Aplicación web de lista de tareas construida con HTML, CSS y JavaScript Vanilla. Permite agregar, eliminar y marcar tareas como completadas, con filtros para visualizar todas, pendientes o completadas. Las tareas se guardan en localStorage, por lo que persisten al recargar la página. Aplica manipulación del DOM, validación de entradas, separación de responsabilidades y diseño responsive.
 
+- 🎮 [**Adivina el número**](https://github.com/Aemete8/Adivina-el-numero-Juego-) — Juego web interactivo desarrollado con HTML, CSS y JavaScript Vanilla donde el usuario debe adivinar un número aleatorio. Implementa lógica de juego, retroalimentación en tiempo real y manipulación del DOM.
+
 - 🔧 *Próximamente iré subiendo más proyectos aquí. ¡Mantente al tanto!*
 
 <!-- Cuando tengas proyectos, puedes reemplazar lo de arriba con algo así:
@@ -54,14 +56,13 @@ Soy un desarrollador **Frontend en formación**, apasionado por construir interf
 </p> 
 --- -->
 
-
 ## 📬 Contáctame
 
 ¡Me encantaría conectar contigo! 😊
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aemete8.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejomart%C3%ADnez/)
 [![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayanm531@gmail.com)
-<!-- [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://TU_PORTAFOLIO.com) -->
 
 ---
 
