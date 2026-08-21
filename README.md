@@ -8,7 +8,7 @@ Soy un desarrollador **Frontend en formación**, apasionado por construir interf
 
 - 🎓 Estudiante de desarrollo Frontend autodidacta y en constante aprendizaje
 - 💻 Me encanta transformar diseños en código limpio y bien estructurado
-- 📚 Actualmente aprendiendo **JavaScript** y próximamente un framework como **Angular** o **React**
+- 📚 Actualmente aprendiendo **React** y **Python** próximamente un framework como o **NextJs**
 - 🌱 Cada proyecto es una oportunidad para mejorar
 - 🎯 Buscando mi primera oportunidad como **Frontend Developer Junior**
 ---
