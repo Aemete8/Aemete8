@@ -21,24 +21,33 @@ Soy un desarrollador **Frontend en formación**, apasionado por construir interf
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 
-**Próximamente aprendiendo:**
+**Aprendiendo:**
 
-![JavaScript avanzado](https://img.shields.io/badge/JS_Avanzado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
 ## 📂 Proyectos destacados
 
-- 🌐 [**Calculadora de propinas**](https://github.com/Aemete8/Calculadora-de-propinas) — Aplicación web desarrollada con HTML, CSS y JavaScript Vanilla para calcular propinas de forma rápida y precisa. El proyecto implementa manipulación del DOM, validación de entradas, separación de responsabilidades y una interfaz responsive siguiendo buenas prácticas de desarrollo frontend.
+🗒️ [**Notas Markdown**](https://github.com/Aemete8/Notas-Markdown) ⭐ — Aplicación web para crear, editar y previsualizar notas en formato Markdown construida con HTML, CSS y JavaScript Vanilla. Las notas persisten en localStorage y se renderizan en tiempo real con markdown-it. Implementa arquitectura de store, separación de responsabilidades, tema claro/oscuro y diseño responsive.
 
-- 🌐 [**Lista de tareas TO-DO**](https://github.com/Aemete8/Lista-de-tareas-To-Do-) — Aplicación web de lista de tareas construida con HTML, CSS y JavaScript Vanilla. Permite agregar, eliminar y marcar tareas como completadas, con filtros para visualizar todas, pendientes o completadas. Las tareas se guardan en localStorage, por lo que persisten al recargar la página. Aplica manipulación del DOM, validación de entradas, separación de responsabilidades y diseño responsive.
+🧠 [**Quiz Interactivo de JavaScript**](https://github.com/Aemete8/Quiz-JavaScript) — Aplicación web de quiz desarrollada con HTML, CSS y JavaScript Vanilla. Presenta 10 preguntas cronometradas sobre JavaScript con opciones aleatorias en cada partida. Implementa manipulación del DOM, temporizador con setInterval, persistencia del mejor puntaje con localStorage, pantalla de resumen por pregunta y separación de responsabilidades siguiendo buenas prácticas de desarrollo frontend.
 
-- 🎮 [**Adivina el número**](https://github.com/Aemete8/Adivina-el-numero-Juego-) — Juego web interactivo desarrollado con HTML, CSS y JavaScript Vanilla donde el usuario debe adivinar un número aleatorio. Implementa lógica de juego, retroalimentación en tiempo real y manipulación del DOM.
+🌐 [**Lista de tareas TO-DO**](https://github.com/Aemete8/Lista-de-tareas-To-Do-) — Aplicación web de lista de tareas construida con HTML, CSS y JavaScript Vanilla. Permite agregar, eliminar y marcar tareas como completadas, con filtros para visualizar todas, pendientes o completadas. Las tareas se guardan en localStorage, por lo que persisten al recargar la página. Aplica manipulación del DOM, validación de entradas, separación de responsabilidades y diseño responsive.
 
-- 🔧 *Próximamente iré subiendo más proyectos aquí. ¡Mantente al tanto!*
+🧮 [**Calculadora de propinas**](https://github.com/Aemete8/Calculadora-de-propinas) — Aplicación web desarrollada con HTML, CSS y JavaScript Vanilla para calcular propinas de forma rápida y precisa. El proyecto implementa manipulación del DOM, validación de entradas, separación de responsabilidades y una interfaz responsive siguiendo buenas prácticas de desarrollo frontend.
+
+🎮 [**Adivina el número**](https://github.com/Aemete8/Adivina-el-numero-Juego-) — Juego web interactivo desarrollado con HTML, CSS y JavaScript Vanilla donde el usuario debe adivinar un número aleatorio. Implementa lógica de juego, retroalimentación en tiempo real y manipulación del DOM.
+
+🔧 *Próximamente iré subiendo más proyectos aquí. ¡Mantente al tanto!*
 
 <!-- Cuando tengas proyectos, puedes reemplazar lo de arriba con algo así:
 - 🌐 [Nombre del proyecto](URL del repo) — Breve descripción
