@@ -13,6 +13,11 @@ Soy un desarrollador **Frontend en formación**, apasionado por construir interf
 - 🎯 Buscando mi primera oportunidad como **Frontend Developer Junior**
 ---
 
+## 🌐 Mi portafolio web
+[![Portafolio](https://img.shields.io/badge/Portafolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aemete8.github.io/Portfolio/)
+
+---
+
 ## 🛠️ Tecnologías y herramientas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,12 +28,13 @@ Soy un desarrollador **Frontend en formación**, apasionado por construir interf
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 
 **Aprendiendo:**
 
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
@@ -69,7 +75,6 @@ Soy un desarrollador **Frontend en formación**, apasionado por construir interf
 
 ¡Me encantaría conectar contigo! 😊
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aemete8.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejomart%C3%ADnez/)
 [![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayanm531@gmail.com)
 
