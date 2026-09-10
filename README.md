@@ -1,6 +1,6 @@
 # ¡Hola! Soy Alejandro Martínez 👋
 
-Soy un desarrollador **Frontend en formación**, apasionado por construir interfaces web bonitas y funcionales. Actualmente estoy aprendiendo y creciendo cada día, con la meta de conseguir mi primer empleo como desarrollador Junior. 🚀
+Soy un desarrollador **Frontend**, apasionado por construir interfaces web bonitas y funcionales. Actualmente estoy aprendiendo y creciendo cada día, con la meta de conseguir mi primer empleo como desarrollador Junior. 🚀
 
 ---
 
@@ -10,7 +10,7 @@ Soy un desarrollador **Frontend en formación**, apasionado por construir interf
 - 💻 Me encanta transformar diseños en código limpio y bien estructurado
 - 📚 Actualmente aprendiendo **React** y **Python** próximamente un framework como o **NextJs**
 - 🌱 Cada proyecto es una oportunidad para mejorar
-- 🎯 Buscando mi primera oportunidad como **Frontend Developer Junior**
+- 🎯 Buscando mi primera oportunidad como **Frontend Developer**
 ---
 
 ## 🌐 Mi portafolio web
@@ -43,15 +43,22 @@ Soy un desarrollador **Frontend en formación**, apasionado por construir interf
 
 ## 📂 Proyectos destacados
 
-🗒️ [**Notas Markdown**](https://github.com/Aemete8/Notas-Markdown) ⭐ — Aplicación web para crear, editar y previsualizar notas en formato Markdown construida con HTML, CSS y JavaScript Vanilla. Las notas persisten en localStorage y se renderizan en tiempo real con markdown-it. Implementa arquitectura de store, separación de responsabilidades, tema claro/oscuro y diseño responsive.
+🍿 [**Buscador de películas**](https://github.com/Aemete8/Buscador-de-peliculas) ⭐ — Buscador de películas con vista de detalle completa construido con HTML, CSS y JavaScript Vanilla. Consume la API de OMDb con dos tipos de fetch distintos (búsqueda y detalle), implementa paginación real e historial de búsquedas persistente en localStorage. Sigue metodología BEM, diseño mobile-first y arquitectura de estado centralizado con manejo de errores en cada capa.
+
+☁️ [**App clima**](https://github.com/Aemete8/App-clima) — App del clima con temas adaptativos construida con HTML, CSS y JavaScript Vanilla. Consume la API de OpenWeatherMap mostrando temperatura, sensación térmica, humedad, viento y visibilidad. Implementa conversión de unidades en frontend, última ciudad buscada persistente en localStorage y esquema de colores dinámico según la condición climática. Sigue metodología BEM, diseño mobile-first y arquitectura de estado centralizado con manejo de errores en cada capa.
+
+🗒️ [**Notas Markdown**](https://github.com/Aemete8/Notas-Markdown) — Aplicación web para crear, editar y previsualizar notas en formato Markdown construida con HTML, CSS y JavaScript Vanilla. Las notas persisten en localStorage y se renderizan en tiempo real con markdown-it. Implementa arquitectura de store, separación de responsabilidades, tema claro/oscuro y diseño responsive.
 
 🧠 [**Quiz Interactivo de JavaScript**](https://github.com/Aemete8/Quiz-JavaScript) — Aplicación web de quiz desarrollada con HTML, CSS y JavaScript Vanilla. Presenta 10 preguntas cronometradas sobre JavaScript con opciones aleatorias en cada partida. Implementa manipulación del DOM, temporizador con setInterval, persistencia del mejor puntaje con localStorage, pantalla de resumen por pregunta y separación de responsabilidades siguiendo buenas prácticas de desarrollo frontend.
 
 🌐 [**Lista de tareas TO-DO**](https://github.com/Aemete8/Lista-de-tareas-To-Do-) — Aplicación web de lista de tareas construida con HTML, CSS y JavaScript Vanilla. Permite agregar, eliminar y marcar tareas como completadas, con filtros para visualizar todas, pendientes o completadas. Las tareas se guardan en localStorage, por lo que persisten al recargar la página. Aplica manipulación del DOM, validación de entradas, separación de responsabilidades y diseño responsive.
 
+<!-- 
 🧮 [**Calculadora de propinas**](https://github.com/Aemete8/Calculadora-de-propinas) — Aplicación web desarrollada con HTML, CSS y JavaScript Vanilla para calcular propinas de forma rápida y precisa. El proyecto implementa manipulación del DOM, validación de entradas, separación de responsabilidades y una interfaz responsive siguiendo buenas prácticas de desarrollo frontend.
 
 🎮 [**Adivina el número**](https://github.com/Aemete8/Adivina-el-numero-Juego-) — Juego web interactivo desarrollado con HTML, CSS y JavaScript Vanilla donde el usuario debe adivinar un número aleatorio. Implementa lógica de juego, retroalimentación en tiempo real y manipulación del DOM.
+-->
+
 
 🔧 *Próximamente iré subiendo más proyectos aquí. ¡Mantente al tanto!*
 
