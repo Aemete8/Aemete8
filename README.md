@@ -45,7 +45,7 @@ Soy **Frontend Developer** enfocado en construir interfaces web responsivas y es
 
 🛒 [**E-commerce Fullstack**](#) ⭐ — Tienda online desarrollada para un negocio real. Frontend construido con React y Tailwind CSS aplicando diseño Mobile First y arquitectura de componentes escalable. Roadmap: integración de backend con Node.js, base de datos relacional y sistema de pagos.
 
-🏠 [**Clon de Airbnb**](#) — Interfaz de búsqueda y filtrado de alojamientos construida con React, aplicando arquitectura de componentes reutilizables y manejo de estado con `useState`. Próximamente: integración con API y sistema de reservas.
+🏠 [**Clon de Airbnb**](https://github.com/Aemete8/Clon-Airbnb) — Interfaz de búsqueda y filtrado de alojamientos construida con React, aplicando arquitectura de componentes reutilizables y manejo de estado con `useState`. Próximamente: integración con API y sistema de reservas.
 
 ### ✅ Proyectos completados
 
